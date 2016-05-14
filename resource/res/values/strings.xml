@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">resource</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="re">red</string>
+    <string name="gr">green</string>
+    <string name="bl">blue</string>
+    <string name="bla">black</string>
+    <string name="yel">yellow</string>
+    <string name="dkg">dark gray</string>
+    <string name="wh">white</string>
+    <string name="cyan">cyan</string>
+    <string name="gra">gray</string>
+
+</resources>

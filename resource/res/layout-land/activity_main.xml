@@ -1,0 +1,79 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+  <LinearLayout
+      android:layout_width="wrap_content"
+      android:layout_height="0dp" 
+      android:layout_weight="1">
+
+    <Button
+        android:id="@+id/Button07"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/re" />
+
+    <Button
+        android:id="@+id/Button06"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/gr" />
+
+    <Button
+        android:id="@+id/Button02"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/bl" />
+    </LinearLayout>
+
+  <LinearLayout
+      android:layout_width="wrap_content"
+      android:layout_height="0dp" 
+        android:layout_weight="1">
+
+    <Button
+        android:id="@+id/Button01"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/wh" />
+
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/bla" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="gra" />
+    </LinearLayout>
+
+  <LinearLayout
+      android:layout_width="match_parent"
+      android:layout_height="0dp"
+        android:layout_weight="1">
+
+      <Button
+          android:id="@+id/Button04"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:text="@string/yel" />
+
+      <Button
+          android:id="@+id/Button05"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:text="@string/cyan" />
+
+      <Button
+          android:id="@+id/Button03"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:text="@string/dkg" />
+
+  </LinearLayout>
+
+ </LinearLayout>

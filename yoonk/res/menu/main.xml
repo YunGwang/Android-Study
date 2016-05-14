@@ -1,0 +1,65 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.yoonk.MainActivity" >
+
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/action_settings"/>
+    <item
+         android:title="굵기">
+        <menu>
+            <item
+                android:id="@+id/w1"
+                android:title="굵기1"/>
+            <item
+                android:id="@+id/w2"
+                android:title="굵기2"/>
+            <item
+                android:id="@+id/w3"
+                android:title="굵기3"/>
+            <item
+                android:id="@+id/w4"
+                android:title="굵기4"/>
+            <item
+                android:id="@+id/w5"
+                android:title="굵기5"/>
+        </menu>
+    </item>
+    <item
+            android:title="색깔">
+        <menu>
+        <item
+            android:id="@+id/RED"
+            android:title="빨강"/>
+        <item
+            android:id="@+id/GREEN"
+            android:title="초록"/>
+        <item
+            android:id="@+id/BLUE"
+            android:title="파랑"/>
+    </menu>
+      </item>
+        <item
+         android:title="모양">
+        <menu>
+            <item
+                android:id="@+id/line"
+                android:title="직선"/>
+            <item
+                android:id="@+id/rect"
+                android:title="사각형"/>
+            <item
+                android:id="@+id/circle"
+                android:title="원"/>
+            <item
+                android:id="@+id/triangle"
+                android:title="삼각형"/>
+
+        </menu>
+    </item>
+    <item android:id="@+id/dial"
+           android:title="대화상자"/>
+ 
+    </menu>

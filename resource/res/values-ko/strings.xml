@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">자원</string>
+    <string name="hello_world">안녕 세상아!</string>
+    <string name="action_settings">설정</string>
+    <string name="re">빨강</string>
+    <string name="gr">초록</string>
+    <string name="bl">파랑</string>
+	<string name="bla">검정</string>
+    <string name="yel">노랑</string>
+    <string name="dkg">짙은 회색</string>
+    <string name="wh">흰색</string>
+    <string name="cyan">시안</string>
+    <string name="gra">회색</string>
+</resources>

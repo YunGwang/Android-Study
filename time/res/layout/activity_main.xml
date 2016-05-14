@@ -1,0 +1,55 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <Button
+            android:id="@+id/gettime"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="시간확인" />
+
+        <Button
+            android:id="@+id/start"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="시작" />
+
+        <Button
+            android:id="@+id/stop"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="스탑" />
+
+    </LinearLayout>
+
+    <Chronometer
+        android:id="@+id/chr"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Chronometer" />
+
+    <EditText
+        android:id="@+id/text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10" >
+
+        <requestFocus />
+    </EditText>
+
+    <TimePicker
+        android:id="@+id/tp"
+        android:layout_width="238dp"
+        android:layout_height="146dp" />
+
+    <CalendarView
+        android:id="@+id/cv"
+        android:layout_width="match_parent"
+        android:layout_height="166dp" />
+
+</LinearLayout>

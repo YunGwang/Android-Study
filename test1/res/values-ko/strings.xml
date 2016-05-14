@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">테스트</string>
+    <string name="hello_world">아이유</string>
+    <string name="action_settings">아이린</string>
+    <string name="test">레드벨벳</string>
+
+</resources>

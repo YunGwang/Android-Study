@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">しげん</string>
+    <string name="hello_world">こんにちは。</string>
+    <string name="action_settings">せってい</string>
+    <string name="re">あか</string>
+    <string name="gr">しょうろく</string>
+    <string name="bl">あおいろ</string>
+    <string name="bla">くろ</string>
+    <string name="yel">きいろ</string>
+    <string name="dkg">くろ はいいろ</string>
+    <string name="wh">しろ </string>
+    <string name="cyan">あおみどり</string>
+    <string name="gra">はいいろ</string>
+
+</resources>

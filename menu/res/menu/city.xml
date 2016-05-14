@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/seoul"
+        android:title="서울"/>
+    <item
+        android:id="@+id/seongnam"
+        android:title="성남"/>
+    <item
+        android:id="@+id/yongin"
+        android:title="용인"/>
+    <item
+        android:id="@+id/suwon"
+        android:title="수원"/>
+    <item
+        android:id="@+id/gwangju"
+        android:title="광주"/>
+    <item
+        android:id="@+id/etc"
+        android:title="기타"/>
+
+</menu>
